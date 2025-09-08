@@ -16,3 +16,10 @@ Manual transcription and summarization of spoken content are time-consuming and 
  ##### Client Side
  1. RAM : 4GB or Above
  2. ROM : 64 GB
+## MODULES 
+❖ Audio Input Module 
+❖ Speech-to-Text Module 
+❖ Text Cleaning Module 
+❖ Summarization Module 
+❖ User Interface Module 
+❖ Storage Module 
