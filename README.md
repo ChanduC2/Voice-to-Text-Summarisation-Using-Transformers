@@ -19,7 +19,12 @@ Manual transcription and summarization of spoken content are time-consuming and 
 ## MODULES 
 1. Audio Input Module
 2. Speech-to-Text Module
-3. Text Cleaning Module
-4. Summarization Module
-5. User Interface Module
-6. Storage Module 
+4. Text Cleaning Module
+5. Summarization Module
+6. User Interface Module
+7. Storage Module
+## Technologies
+1. Python
+2. BART - Summarisation
+3. Whishper - Transcription
+
