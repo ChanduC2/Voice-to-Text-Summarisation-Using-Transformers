@@ -28,4 +28,4 @@ Manual transcription and summarization of spoken content are time-consuming and 
 2. BART - Summarisation
 3. Whishper - Transcription
 ## Project Code
--<a href="
+-<a href="https://github.com/ChanduC2/Voice-to-Text-Summarisation-Using-Transformers/blob/main/Code.py">Project Code </a>
