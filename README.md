@@ -29,6 +29,8 @@ Manual transcription and summarization of spoken content are time-consuming and 
 3. Whishper - Transcription
 ## Project Code
 <a href="https://github.com/ChanduC2/Voice-to-Text-Summarisation-Using-Transformers/blob/main/Code.py">Project Code </a>
+## Project Website
+<a href="https://1838771cd74c5aa7c9.gradio.live/">Website</a>
 ## Conclusion
 In conclusion, this project successfully integrates speech recognition and natural language processing to convert spoken language into accurate, concise text summaries. By utilizing advanced models like Whisper and text summarization algorithms,
 it ensures both transcription accuracy and contextual relevance. The system streamlines tasks such as note-taking, meeting documentation, and content creation, enhancing productivity across various domains. With a user-friendly interface and
